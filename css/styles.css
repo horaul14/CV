@@ -1,0 +1,41 @@
+h1 {
+  background-color: #6E85B7;
+}
+
+
+
+
+/****************CLASS SELECTOR*******************/
+.top-container {
+
+  background-color: #F9F9F9;
+  text-align: center;
+
+
+}
+.middle-container {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  position: relative;
+
+
+
+}
+.bottom-container {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+
+}
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px;
+}
+.bottom-cloud {
+position: absolute;
+}
